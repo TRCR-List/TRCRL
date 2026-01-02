@@ -5,9 +5,12 @@
     "creators": "TRCR22",
     "verifier": "LightingFlash",
     "verification": "n",
-    "percentToQualify": 50,
+    "percentToQualify": 100,
     "password": "Free to coppy",
     "records": [
-        
+            "user": "spnv",
+            "link": "https://www.youtube.com/watch?v=EiEwSAObIYA",
+            "percent": 100,
+            "hz": 360
     ]
 }
