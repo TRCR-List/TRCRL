@@ -2,7 +2,7 @@
     "id": 8877,
     "name": "Nellescapes",
     "author": "TRCR22",
-    "creators": "TRCR22",
+    "creators": ["TRCR22"],
     "verifier": "N/A",
     "verification": "n",
     "percentToQualify": 50,
