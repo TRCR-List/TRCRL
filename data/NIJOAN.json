@@ -2,7 +2,7 @@
     "id": 12433,
     "name": "NIJOAN",
     "author": "TRCR22",
-    "creators": "TRCR22",
+    "creators": ["TRCR22"],
     "verifier": "LightingFlash",
     "verification": "n",
     "percentToQualify": 100,
