@@ -7,26 +7,21 @@
     {
         "role": "admin",
         "name": "TurboFlash",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
-]
-
-""
+        "link": "https://www.youtube.com/@FlashTurboTrust"
+    },
     {
         "role": "helper",
         "name": "",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/"
     },
     {
         "role": "trial",
         "name": "",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/"
     },
     {
         "role": "dev",
         "name": "",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/"
     }
-
-
-""
+]
